@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
- I learned this code from youtube 
+ I learned this code from youtube and this is not my own idea .the original code is here https://github.com/RivaanRanawat/instagram-flutter-clone.git
